@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.DS_Store
+
+# Downloaded price data (re-created by run_analysis.py)
+data/
