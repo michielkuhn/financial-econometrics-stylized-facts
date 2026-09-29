@@ -1,8 +1,8 @@
 ,value
-"corr(negative monthly return, next-month vol)",-0.4537357061240404
-"corr(positive monthly return, next-month vol)",0.24940655980245297
-"OLS slope, negative months",-0.3745778073924599
-"corr(r_{t-1}, r_t^2)",-0.09578571693141139
+"corr(negative monthly return, next-month vol)",-0.45373608276185445
+"corr(positive monthly return, next-month vol)",0.24940849813946944
+"OLS slope, negative months",-0.3745785830489187
+"corr(r_{t-1}, r_t^2)",-0.09578568231794454
 Significant negative lags (1..20),12.0
 Significant positive lags (1..20),0.0
 95% band,0.017454514311388582
